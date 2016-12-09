@@ -1,4 +1,5 @@
-## Write an algorithm that takes in a string and reverses all the characters in that string
+## Write a function that takes in a sentence and reverses the sentence
+
 #define the string
 my_string = "My spoon is too big"
 
